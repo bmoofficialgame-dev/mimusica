@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" role="img" aria-labelledby="title desc">
+  <title id="title">Icono de Mi Música</title>
+  <desc id="desc">Cuadrado amarillo lima redondeado con dos corcheas en verde oscuro.</desc>
+  <rect width="38" height="38" rx="13" fill="#d7f36a"/>
+  <path d="M119 -38Q77 -38 55.5 -17.0Q34 4 34 37Q34 68 51.0 93.5Q68 119 95.0 134.5Q122 150 152 150Q179 150 199 139V565L593 665V174Q593 120 570.5 81.0Q548 42 512.0 22.0Q476 2 436 2Q394 2 372.0 23.0Q350 44 350 77Q350 108 367.5 133.5Q385 159 412.0 174.5Q439 190 469 190Q495 190 515 179V550L276 484V134Q276 80 253.5 41.0Q231 2 195.0 -18.0Q159 -38 119 -38Z" transform="matrix(0.021000000000 0 0 -0.021000000000 12.416500000 25.583500000)" fill="#18200b" fill-rule="nonzero"/>
+</svg>
